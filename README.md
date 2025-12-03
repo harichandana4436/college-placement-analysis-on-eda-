@@ -1,4 +1,5 @@
-📊 College Placement Analysis – README
+📊 College Placement Analysis 
+
 📁 Project Overview
 
 This project analyzes factors influencing student placement outcomes using academic, cognitive, and skill-based attributes. The goal is to understand which variables (CGPA, IQ, communication skills, projects, internships, etc.) significantly affect a student's chance of being placed in campus recruitment.
